@@ -25,6 +25,43 @@ A curated list of awesome Sailfish OS resources
 * [Working Hours Tracker](https://wht.olpe.fi/) - An easy to use and simple
   Working Hours Tracker for SailfishOS
 
+## Instang messaging
+
+### In English
+
+* SailfishOS Fan Club
+    * [Telegram](https://t.me/joinchat/AWx9iUE-U9qNKNpGgSbd3w)
+    * [Matrix](https://riot.im/app/#/room/#jfc:matrix.org )
+    * [IRC](https://kiwiirc.com/client/irc.freenode.net:+6697/#jollafanclub)
+* Mer-meeting
+    * [Telegram READ-ONLY](https://t.me/joinchat/AWx9iQKLefzSQFXQqq_hyw)
+    * [Matrix](https://riot.im/app/#/room/#freenode_#mer-meeting)
+    * [IRC](https://kiwiirc.com/client/irc.freenode.net:+6697/#Mer-meeting)
+
+* #sailfishos-porters
+    * [Telegram](https://t.me/joinchat/AAAAAAlWDbzGlsfrU5DD6A)
+    * [Matrix](https://riot.im/app/#/room/#freenode_#sailfishos-porters:matrix.org)
+    * [IRC](https://kiwiirc.com/client/irc.freenode.net:+6697/#sailfishos-porters)
+* NemoMobile
+    * [Telegram](https://t.me/NemoMobile)
+    * [Matrix](https://riot.im/app/#/room/#freenode_#nemomobile:matrix.org)
+    * [IRC](https://kiwiirc.com/client/irc.freenode.net:+6697/#NemoMobile)
+* SfOS QML App dev
+    * [Telegram](https://t.me/joinchat/Az9rWwlOc_IF0iv8k-3QRg)
+
+### In Finnish
+
+* SailfishOS Hackclub Helsinki
+    * [Telegram](https://telegram.me/joinchat/AWx9iQi71psKR-isKktNTQ)
+    * [Matrix](https://riot.im/app/#/room/#sailfishos-hackclub-helsinki:disroot.org)
+    * [IRC](https://kiwiirc.com/client/irc.freenode.net:+6697/#sailfish-hackclub-hki)
+
+### In Spanish
+
+* Liñux
+    * [Telegram](https://t.me/joinchat/AYOjv0Bp2yQI9r2vW29mPQ)
+* [Grupo de Telegram del Observatorio de Sistemas Operativos Móviles Alternativos (OSOMA)](https://t.me/joinchat/Ea-hiUOt0N2tkXuP08TB5A)
+
 ## Tips and tricks
 
 * [Sailfish Useful Commands](https://github.com/olpeh/sailfish-useful-commands) -
