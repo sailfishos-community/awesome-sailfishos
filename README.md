@@ -13,7 +13,8 @@ A curated list of awesome Sailfish OS resources
   different components of Sailfish OS and whether they are OSS
 * [Developer documentation](https://sailfishos.org/wiki/SailfishOS) -
   Documentation for Sailfish OS developers
-* [SailfishOS Ports list](https://wiki.merproject.org/wiki/Adaptations/libhybris) - A list of unnoficial SailfishOS ports
+* [SailfishOS Ports list](https://wiki.merproject.org/wiki/Adaptations/libhybris) -
+  A list of unofficial SailfishOS ports
 
 ## Applications
 
