@@ -62,10 +62,15 @@ A curated list of awesome Sailfish OS resources
     * [Telegram](https://t.me/joinchat/AYOjv0Bp2yQI9r2vW29mPQ)
 * [Grupo de Telegram del Observatorio de Sistemas Operativos Móviles Alternativos (OSOMA)](https://t.me/joinchat/Ea-hiUOt0N2tkXuP08TB5A)
 
+### In Turkish
+* [JollaTr](https://jollatr.blogspot.com.tr/) - A blog about Sailfish OS
+* [Sailfish OS - MaxiCep](https://www.maxicep.com/forum/kategori/sailfish-os.765/) - A sub forum about Sailfish OS
+
 ## Tips and tricks
 
 * [Sailfish Useful Commands](https://github.com/olpeh/sailfish-useful-commands) -
   A collection of useful commands that are not so easy to remember
+* [Equivalents in Sailfish](https://github.com/maidis/equivalentsinsailfish) - A list that shows Android apps and their Sailfish equivalents
 
 ## Related
 
