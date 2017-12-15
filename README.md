@@ -25,7 +25,7 @@ A curated list of awesome Sailfish OS resources
 * [Working Hours Tracker](https://wht.olpe.fi/) - An easy to use and simple
   Working Hours Tracker for SailfishOS
 
-## Instang messaging
+## Instant messaging
 
 ### In English
 
