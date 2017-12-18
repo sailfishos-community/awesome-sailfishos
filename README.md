@@ -27,6 +27,10 @@ A curated list of awesome Sailfish OS resources
 
 ## Instant messaging
 
+### In German
+ * Deutsche Sailfish OS Community
+    * [Telegram](https://telegram.me/joinchat/CCMYXQnxqdq5v1lue-5aBQ)
+
 ### In English
 
 * SailfishOS Fan Club
