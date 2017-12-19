@@ -66,6 +66,12 @@ A curated list of awesome Sailfish OS resources
     * [Telegram](https://t.me/joinchat/AYOjv0Bp2yQI9r2vW29mPQ)
 * [Grupo de Telegram del Observatorio de Sistemas Operativos Móviles Alternativos (OSOMA)](https://t.me/joinchat/Ea-hiUOt0N2tkXuP08TB5A)
 
+### In Italian
+
+* [Jolla Community Italia](https://jollacommunity.it) - Sailfish OS Related news, guides, forum and other resources
+* [Jolla Community Italia](https://t.me/jollait) - News channel (read-only)
+* [Jolla Community Italia Club](https://t.me/jollaitclub) - Group for discussion
+
 ### In Turkish
 * [JollaTr](https://jollatr.blogspot.com.tr/) - A blog about Sailfish OS
 * [Sailfish OS - MaxiCep](https://www.maxicep.com/forum/kategori/sailfish-os.765/) - A sub forum about Sailfish OS
