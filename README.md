@@ -27,43 +27,45 @@ A curated list of awesome Sailfish OS resources
 
 ## Instant messaging
 
-### In German
- * Deutsche Sailfish OS Community
-    * [Telegram](https://telegram.me/joinchat/CCMYXQnxqdq5v1lue-5aBQ)
-
 ### In English
 
 * SailfishOS Fan Club
-    * [Telegram](https://t.me/joinchat/AWx9iUE-U9qNKNpGgSbd3w)
-    * [Matrix](https://riot.im/app/#/room/#jfc:matrix.org )
-    * [IRC](https://kiwiirc.com/client/irc.freenode.net:+6697/#jollafanclub)
+  * [Telegram](https://t.me/joinchat/AWx9iUE-U9qNKNpGgSbd3w)
+  * [Matrix](https://riot.im/app/#/room/#jfc:matrix.org)
+  * [IRC](https://kiwiirc.com/client/irc.freenode.net:+6697/#jollafanclub)
 * Mer-meeting
-    * [Telegram READ-ONLY](https://t.me/joinchat/AWx9iQKLefzSQFXQqq_hyw)
-    * [Matrix](https://riot.im/app/#/room/#freenode_#mer-meeting)
-    * [IRC](https://kiwiirc.com/client/irc.freenode.net:+6697/#Mer-meeting)
+
+  * [Telegram READ-ONLY](https://t.me/joinchat/AWx9iQKLefzSQFXQqq_hyw)
+  * [Matrix](https://riot.im/app/#/room/#freenode_#mer-meeting)
+  * [IRC](https://kiwiirc.com/client/irc.freenode.net:+6697/#Mer-meeting)
 
 * #sailfishos-porters
-    * [Telegram](https://t.me/joinchat/AAAAAAlWDbzGlsfrU5DD6A)
-    * [Matrix](https://riot.im/app/#/room/#freenode_#sailfishos-porters:matrix.org)
-    * [IRC](https://kiwiirc.com/client/irc.freenode.net:+6697/#sailfishos-porters)
+  * [Telegram](https://t.me/joinchat/AAAAAAlWDbzGlsfrU5DD6A)
+  * [Matrix](https://riot.im/app/#/room/#freenode_#sailfishos-porters:matrix.org)
+  * [IRC](https://kiwiirc.com/client/irc.freenode.net:+6697/#sailfishos-porters)
 * NemoMobile
-    * [Telegram](https://t.me/NemoMobile)
-    * [Matrix](https://riot.im/app/#/room/#freenode_#nemomobile:matrix.org)
-    * [IRC](https://kiwiirc.com/client/irc.freenode.net:+6697/#NemoMobile)
+  * [Telegram](https://t.me/NemoMobile)
+  * [Matrix](https://riot.im/app/#/room/#freenode_#nemomobile:matrix.org)
+  * [IRC](https://kiwiirc.com/client/irc.freenode.net:+6697/#NemoMobile)
 * SfOS QML App dev
-    * [Telegram](https://t.me/joinchat/Az9rWwlOc_IF0iv8k-3QRg)
+  * [Telegram](https://t.me/joinchat/Az9rWwlOc_IF0iv8k-3QRg)
+
+### In German
+
+* Deutsche Sailfish OS Community
+  * [Telegram](https://telegram.me/joinchat/CCMYXQnxqdq5v1lue-5aBQ)
 
 ### In Finnish
 
 * SailfishOS Hackclub Helsinki
-    * [Telegram](https://telegram.me/joinchat/AWx9iQi71psKR-isKktNTQ)
-    * [Matrix](https://riot.im/app/#/room/#sailfishos-hackclub-helsinki:disroot.org)
-    * [IRC](https://kiwiirc.com/client/irc.freenode.net:+6697/#sailfish-hackclub-hki)
+  * [Telegram](https://telegram.me/joinchat/AWx9iQi71psKR-isKktNTQ)
+  * [Matrix](https://riot.im/app/#/room/#sailfishos-hackclub-helsinki:disroot.org)
+  * [IRC](https://kiwiirc.com/client/irc.freenode.net:+6697/#sailfish-hackclub-hki)
 
 ### In Spanish
 
 * Liñux
-    * [Telegram](https://t.me/joinchat/AYOjv0Bp2yQI9r2vW29mPQ)
+  * [Telegram](https://t.me/joinchat/AYOjv0Bp2yQI9r2vW29mPQ)
 * [Grupo de Telegram del Observatorio de Sistemas Operativos Móviles Alternativos (OSOMA)](https://t.me/joinchat/Ea-hiUOt0N2tkXuP08TB5A)
 
 ### In Italian
@@ -73,6 +75,7 @@ A curated list of awesome Sailfish OS resources
 * [Jolla Community Italia Club](https://t.me/jollaitclub) - Group for discussion
 
 ### In Turkish
+
 * [JollaTr](https://jollatr.blogspot.com.tr/) - A blog about Sailfish OS
 * [Sailfish OS - MaxiCep](https://www.maxicep.com/forum/kategori/sailfish-os.765/) - A sub forum about Sailfish OS
 
