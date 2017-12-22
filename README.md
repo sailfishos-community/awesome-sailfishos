@@ -79,6 +79,15 @@ A curated list of awesome Sailfish OS resources
 * [JollaTr](https://jollatr.blogspot.com.tr/) - A blog about Sailfish OS
 * [Sailfish OS - MaxiCep](https://www.maxicep.com/forum/kategori/sailfish-os.765/) - A sub forum about Sailfish OS
 
+### In Chinese
+
+* SailfishOS Fan Club
+  * [Telegram](https://t.me/jollacn)
+  * [IRC](https://kiwiirc.com/client/irc.freenode.net:+6697/#jolla-cn)
+  * [旗鱼俱乐部](https://sailfishos.club)
+  * [QQ群](https://jq.qq.com/?_wv=1027&k=5Ci7vyS)
+
+
 ## Tips and tricks
 
 * [Sailfish Useful Commands](https://github.com/olpeh/sailfish-useful-commands) -
