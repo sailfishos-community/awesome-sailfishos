@@ -1,3 +1,23 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Awesome Sailfish OS *](#awesome-sailfish-os-)
+  - [Sailfish OS](#sailfish-os)
+  - [Applications](#applications)
+  - [Instant messaging](#instant-messaging)
+    - [In English](#in-english)
+    - [In German](#in-german)
+    - [In Finnish](#in-finnish)
+    - [In Spanish](#in-spanish)
+    - [In Italian](#in-italian)
+    - [In Turkish](#in-turkish)
+    - [In Chinese](#in-chinese)
+  - [Tips and tricks](#tips-and-tricks)
+  - [Related](#related)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Awesome Sailfish OS [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome Sailfish OS resources
