@@ -44,6 +44,7 @@ A curated list of awesome Sailfish OS resources
   application for Sailfish OS built on top of KeepassX
 * [Working Hours Tracker](https://wht.olpe.fi/) - An easy to use and simple
   Working Hours Tracker for SailfishOS
+* [Sailfish apps](https://github.com/sailfishapps) - Unofficial Sailfish OS third party open source apps collection
 
 ## Instant messaging
 
