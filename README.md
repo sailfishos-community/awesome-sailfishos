@@ -113,6 +113,7 @@ A curated list of awesome Sailfish OS resources
 * [Sailfish Useful Commands](https://github.com/olpeh/sailfish-useful-commands) -
   A collection of useful commands that are not so easy to remember
 * [Equivalents in Sailfish](https://github.com/maidis/equivalentsinsailfish) - A list that shows Android apps and their Sailfish equivalents
+* [Sailfish OS Cheat Sheet](https://sailfishos.org/wiki/Sailfish_OS_Cheat_Sheet) - A Collection of Development Commands
 
 ## Related
 
