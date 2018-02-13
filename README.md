@@ -74,7 +74,7 @@ A curated list of awesome Sailfish OS resources
 ### In German
 
 * Deutsche Sailfish OS Community
-  * [Telegram](https://telegram.me/joinchat/CCMYXQnxqdq5v1lue-5aBQ)
+  * [Telegram](https://t.me/joinchat/CCMYXQnxqdpVWVooiTdWTQ)
 
 ### In Finnish
 
