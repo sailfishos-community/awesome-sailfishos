@@ -26,15 +26,15 @@ A curated list of awesome Sailfish OS resources
 ## Sailfish OS
 
 * [Sailfish Wiki](https://sailfishos.org/about/) - Wiki about Sailfish OS
-* [Sailfish OS community](https://sailfishos.org/community/) - About Sailfish OS
+* [Sailfish OS Community](https://sailfishos.org/community/) - About Sailfish OS
   community
 * [together.jolla.com](https://together.jolla.com/questions/) - A place to ask
   questions
 * [Sailfish OSS](https://wiki.merproject.org/wiki/SailfishOSS) - A list of the
   different components of Sailfish OS and whether they are OSS
-* [Developer documentation](https://sailfishos.org/wiki/SailfishOS) -
+* [Developer Documentation](https://sailfishos.org/wiki/SailfishOS) -
   Documentation for Sailfish OS developers
-* [SailfishOS Ports list](https://wiki.merproject.org/wiki/Adaptations/libhybris) -
+* [SailfishOS Ports List](https://wiki.merproject.org/wiki/Adaptations/libhybris) -
   A list of unofficial SailfishOS ports
 
 ## Applications
@@ -45,16 +45,16 @@ A curated list of awesome Sailfish OS resources
   application for Sailfish OS built on top of KeepassX
 * [Working Hours Tracker](https://wht.olpe.fi/) - An easy to use and simple
   Working Hours Tracker for SailfishOS
-* [Sailfish apps](https://github.com/sailfishapps) - Unofficial Sailfish OS third party open source apps collection
+* [Sailfish Apps](https://github.com/sailfishapps) - Unofficial Sailfish OS third party open source apps collection
 
-## Tips and tricks
+## Tips and Tricks
 
 * [Sailfish Useful Commands](https://github.com/olpeh/sailfish-useful-commands) -
   A collection of useful commands that are not so easy to remember
 * [Equivalents in Sailfish](https://github.com/maidis/equivalentsinsailfish) - A list that shows Android apps and their Sailfish equivalents
 * [Sailfish OS Cheat Sheet](https://sailfishos.org/wiki/Sailfish_OS_Cheat_Sheet) - A Collection of Development Commands
 
-## Instant messaging
+## Instant Messaging
 
 ### In English
 
