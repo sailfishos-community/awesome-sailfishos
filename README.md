@@ -5,20 +5,21 @@ A curated list of awesome Sailfish OS resources
 ## Table of Contents
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
+
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-- [Sailfish OS](#sailfish-os)
-- [Applications](#applications)
-- [Instant messaging](#instant-messaging)
-  - [In English](#in-english)
-  - [In German](#in-german)
-  - [In Finnish](#in-finnish)
-  - [In Spanish](#in-spanish)
-  - [In Italian](#in-italian)
-  - [In Turkish](#in-turkish)
-  - [In Chinese](#in-chinese)
-- [Tips and tricks](#tips-and-tricks)
-- [Related](#related)
+* [Sailfish OS](#sailfish-os)
+* [Applications](#applications)
+* [Tips and tricks](#tips-and-tricks)
+* [Instant messaging](#instant-messaging)
+  * [In English](#in-english)
+  * [In German](#in-german)
+  * [In Finnish](#in-finnish)
+  * [In Spanish](#in-spanish)
+  * [In Italian](#in-italian)
+  * [In Turkish](#in-turkish)
+  * [In Chinese](#in-chinese)
+* [Related](#related)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -45,6 +46,13 @@ A curated list of awesome Sailfish OS resources
 * [Working Hours Tracker](https://wht.olpe.fi/) - An easy to use and simple
   Working Hours Tracker for SailfishOS
 * [Sailfish apps](https://github.com/sailfishapps) - Unofficial Sailfish OS third party open source apps collection
+
+## Tips and tricks
+
+* [Sailfish Useful Commands](https://github.com/olpeh/sailfish-useful-commands) -
+  A collection of useful commands that are not so easy to remember
+* [Equivalents in Sailfish](https://github.com/maidis/equivalentsinsailfish) - A list that shows Android apps and their Sailfish equivalents
+* [Sailfish OS Cheat Sheet](https://sailfishos.org/wiki/Sailfish_OS_Cheat_Sheet) - A Collection of Development Commands
 
 ## Instant messaging
 
@@ -107,13 +115,6 @@ A curated list of awesome Sailfish OS resources
   * [IRC](https://kiwiirc.com/client/irc.freenode.net:+6697/#jolla-cn)
   * [旗鱼俱乐部](https://sailfishos.club)
   * [QQ 群](https://jq.qq.com/?_wv=1027&k=5Ci7vyS)
-
-## Tips and tricks
-
-* [Sailfish Useful Commands](https://github.com/olpeh/sailfish-useful-commands) -
-  A collection of useful commands that are not so easy to remember
-* [Equivalents in Sailfish](https://github.com/maidis/equivalentsinsailfish) - A list that shows Android apps and their Sailfish equivalents
-* [Sailfish OS Cheat Sheet](https://sailfishos.org/wiki/Sailfish_OS_Cheat_Sheet) - A Collection of Development Commands
 
 ## Related
 
