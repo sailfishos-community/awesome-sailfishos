@@ -2,16 +2,18 @@
 
 A curated list of awesome Sailfish OS resources
 
-## Table of Contents
+## Contents
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
 * [Sailfish OS](#sailfish-os)
 * [Applications](#applications)
-* [Tips and tricks](#tips-and-tricks)
-* [Instant messaging](#instant-messaging)
+* [Tips and Tricks](#tips-and-tricks)
+* [Instant Messaging](#instant-messaging)
   * [In English](#in-english)
   * [In German](#in-german)
   * [In Finnish](#in-finnish)
@@ -20,6 +22,7 @@ A curated list of awesome Sailfish OS resources
   * [In Turkish](#in-turkish)
   * [In Chinese](#in-chinese)
 * [Related](#related)
+* [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
