@@ -35,9 +35,9 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 * [Sailfish Wiki](https://sailfishos.org/about/) - Wiki about Sailfish OS
 * [Sailfish OS Community](https://sailfishos.org/community/) - About Sailfish OS
   community
-* [together.jolla.com](https://together.jolla.com/questions/) - A place to ask
+* [together.jolla.com](https://together.jolla.com/questions/) - The place to ask
   questions
-* [Sailfish OSS](https://wiki.merproject.org/wiki/SailfishOSS) - A list of the
+* [Sailfish OSS](https://wiki.merproject.org/wiki/SailfishOSS) - List of the
   different components of Sailfish OS and whether they are OSS
 * [Developer Documentation](https://sailfishos.org/wiki/SailfishOS) -
   Documentation for Sailfish OS developers
@@ -48,9 +48,9 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 
 * [Storeman](https://github.com/mentaljam/harbour-storeman) - Unofficial native
   OpenRepos.net client for Sailfish OS
-* [OwnKeepass](https://github.com/jobe-m/ownkeepass) - A password safe
+* [OwnKeepass](https://github.com/jobe-m/ownkeepass) - Password safe
   application for Sailfish OS built on top of KeepassX
-* [Working Hours Tracker](https://wht.olpe.fi/) - An easy to use and simple
+* [Working Hours Tracker](https://wht.olpe.fi/) - Easy to use and simple
   Working Hours Tracker for SailfishOS
 * [Sailfish Apps](https://github.com/sailfishapps) - Unofficial Sailfish OS third party open source apps collection
 
@@ -58,8 +58,8 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 
 * [Sailfish Useful Commands](https://github.com/olpeh/sailfish-useful-commands) -
   A collection of useful commands that are not so easy to remember
-* [Equivalents in Sailfish](https://github.com/maidis/equivalentsinsailfish) - A list that shows Android apps and their Sailfish equivalents
-* [Sailfish OS Cheat Sheet](https://sailfishos.org/wiki/Sailfish_OS_Cheat_Sheet) - A Collection of Development Commands
+* [Equivalents in Sailfish](https://github.com/maidis/equivalentsinsailfish) - List that shows Android apps and their Sailfish equivalents
+* [Sailfish OS Cheat Sheet](https://sailfishos.org/wiki/Sailfish_OS_Cheat_Sheet) - Collection of Development Commands
 
 ## Instant Messaging
 
@@ -113,7 +113,7 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 ### In Turkish
 
 * [JollaTr](https://jollatr.blogspot.com.tr/) - A blog about Sailfish OS
-* [Sailfish OS - MaxiCep](https://www.maxicep.com/forum/kategori/sailfish-os.765/) - A sub forum about Sailfish OS
+* [Sailfish OS - MaxiCep](https://www.maxicep.com/forum/kategori/sailfish-os.765/) - Sub forum about Sailfish OS
 
 ### In Chinese
 
@@ -126,7 +126,7 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 ## Related
 
 * [Awesome Qt](https://github.com/mikalv/awesome-qt-qml/blob/master/README.md) -
-  A curated list of awesome Qt and QML libraries, resources, projects, and shiny
+  Curated list of awesome Qt and QML libraries, resources, projects, and shiny
   things
 
 ## License
