@@ -121,3 +121,9 @@ A curated list of awesome Sailfish OS resources
 * [Awesome Qt](https://github.com/mikalv/awesome-qt-qml/blob/master/README.md) -
   A curated list of awesome Qt and QML libraries, resources, projects, and shiny
   things
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Olavi Haapala](https://github.com/olpeh) has waived all copyright and related or neighboring rights to this work.
