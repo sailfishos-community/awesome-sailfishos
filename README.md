@@ -42,7 +42,7 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 * [Developer Documentation](https://sailfishos.org/wiki/SailfishOS) -
   Documentation for Sailfish OS developers
 * [SailfishOS Ports List](https://wiki.merproject.org/wiki/Adaptations/libhybris) -
-  A list of unofficial SailfishOS ports
+  List of unofficial SailfishOS ports
 
 ## Applications
 
@@ -57,7 +57,7 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 ## Tips and Tricks
 
 * [Sailfish Useful Commands](https://github.com/olpeh/sailfish-useful-commands) -
-  A collection of useful commands that are not so easy to remember
+  Collection of useful commands that are not so easy to remember
 * [Equivalents in Sailfish](https://github.com/maidis/equivalentsinsailfish) - List that shows Android apps and their Sailfish equivalents
 * [Sailfish OS Cheat Sheet](https://sailfishos.org/wiki/Sailfish_OS_Cheat_Sheet) - Collection of Development Commands
 
@@ -112,7 +112,7 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 
 ### In Turkish
 
-* [JollaTr](https://jollatr.blogspot.com.tr/) - A blog about Sailfish OS
+* [JollaTr](https://jollatr.blogspot.com.tr/) - Blog about Sailfish OS
 * [Sailfish OS - MaxiCep](https://www.maxicep.com/forum/kategori/sailfish-os.765/) - Sub forum about Sailfish OS
 
 ### In Chinese
