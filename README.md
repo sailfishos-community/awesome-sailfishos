@@ -1,6 +1,6 @@
 # Awesome Sailfish OS [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[<img src="sfos_fans.jpg" align="right" width="240">](https://sailfishos.org/community/)
+[<img src="sfos_fans.jpg" align="right" width="120">](https://sailfishos.org/community/)
 
 A curated list of awesome Sailfish OS resources.
 
