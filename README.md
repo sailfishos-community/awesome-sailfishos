@@ -79,7 +79,7 @@ Sailfish OS is a mobile operating system based on open source and developed by t
   * [IRC](https://kiwiirc.com/client/irc.freenode.net:+6697/#Mer-meeting)
 
 * #sailfishos-porters
-  * [Telegram](https://t.me/joinchat/AAAAAAlWDbzGlsfrU5DD6A)
+  * [Telegram](https://t.me/sailfishos_porters)
   * [Matrix](https://riot.im/app/#/room/#freenode_#sailfishos-porters:matrix.org)
   * [IRC](https://kiwiirc.com/client/irc.freenode.net:+6697/#sailfishos-porters)
 * NemoMobile
