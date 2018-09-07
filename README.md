@@ -87,7 +87,7 @@ Sailfish OS is a mobile operating system based on open source and developed by t
   * [Matrix](https://riot.im/app/#/room/#freenode_#nemomobile:matrix.org)
   * [IRC](https://kiwiirc.com/client/irc.freenode.net:+6697/#NemoMobile)
 * SfOS QML App dev
-  * Telegram (link unknown)
+  * [Telegram](https://t.me/joinchat/Az9rWwlOc_JbRyYH7hxG7Q)
 
 ### In German
 
