@@ -25,6 +25,7 @@ Sailfish OS is a mobile operating system based on open source and developed by t
   * [In Italian](#in-italian)
   * [In Turkish](#in-turkish)
   * [In Chinese](#in-chinese)
+  * [In Russian](#in-russian)
 * [Related](#related)
 * [License](#license)
 
@@ -125,6 +126,11 @@ Sailfish OS is a mobile operating system based on open source and developed by t
   * [IRC](https://kiwiirc.com/client/irc.freenode.net:+6697/#jolla-cn)
   * [旗鱼俱乐部](https://sailfishos.club)
   * [QQ 群](https://jq.qq.com/?_wv=1027&k=5Ci7vyS)
+
+### In Russian
+
+* [Sailfish OS Telegram chat](https://t.me/sailfishos)
+* [Sailfish OS Pub Telegram chat](https://t.me/sailfishos_pub)
 
 ## Related
 
