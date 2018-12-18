@@ -107,6 +107,7 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 * Liñux
   * [Telegram](https://t.me/joinchat/AYOjv0Bp2yQI9r2vW29mPQ)
 * [Grupo de Telegram del Observatorio de Sistemas Operativos Móviles Alternativos (OSOMA)](https://t.me/joinchat/Ea-hiUOt0N2tkXuP08TB5A)
+* [Grupo de Telegram Sailfish ES](https://t.me/sailfish_es)
 
 ### In Italian
 
