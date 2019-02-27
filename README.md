@@ -120,6 +120,7 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 
 * [JollaTr](https://jollatr.blogspot.com.tr/) - Blog about Sailfish OS
 * [Sailfish OS - MaxiCep](https://www.maxicep.com/forum/kategori/sailfish-os.765/) - Sub forum about Sailfish OS
+* [Telegram](https://t.me/sailfishostr)
 
 ### In Chinese
 
