@@ -93,8 +93,6 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 
 * SailfishOS Hackclub Helsinki
   * [Telegram](https://telegram.me/joinchat/AWx9iQi71psKR-isKktNTQ)
-  * [Matrix](https://riot.im/app/#/room/#sailfishos-hackclub-helsinki:disroot.org)
-  * [IRC](https://kiwiirc.com/client/irc.oftc.net:+6697/#sailfish-hackclub-hki)
 
 ### In Spanish
 
