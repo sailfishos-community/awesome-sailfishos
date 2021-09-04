@@ -57,6 +57,7 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 * [Sailfish Useful Commands](https://github.com/olpeh/sailfish-useful-commands) -
   Collection of useful commands that are not so easy to remember
 * [Equivalents in Sailfish](https://github.com/maidis/equivalentsinsailfish) - List that shows Android apps and their Sailfish equivalents
+* [List of Android -> SailfishOS applications](https://forum.sailfishos.org/t/list-of-android-sailfish-os-applications/6866)
 * [Sailfish OS Cheat Sheet](https://sailfishos.org/wiki/Sailfish_OS_Cheat_Sheet) - Collection of Development Commands
 
 ## Instant Messaging
