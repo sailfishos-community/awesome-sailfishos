@@ -66,21 +66,21 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 * SailfishOS Fan Club
   * [Telegram](https://t.me/joinchat/gkQEMR5cOh1iMTA8)
   * [Matrix](https://riot.im/app/#/room/#jfc:matrix.org)
-  * [IRC](https://kiwiirc.com/client/irc.freenode.net:+6697/#jollafanclub)
+  * [IRC](https://kiwiirc.com/client/irc.oftc.net:+6697/#jollafanclub)
 * Sailfish OS-meeting
 
   * [Telegram READ-ONLY](https://t.me/joinchat/AAAAAFcbasJX67Fu-aGxxQ)
   * [Matrix](matrix:r/_oftc_#mer-meeting:matrix.org?action=chat)
-  * [IRC](https://kiwiirc.com/client/irc.freenode.net:+6697/#Mer-meeting)
+  * [IRC](https://kiwiirc.com/client/irc.oftc.net:+6697/#Mer-meeting)
 
 * #sailfishos-porters
   * [Telegram](https://t.me/sailfishos_porters)
   * [Matrix](matrix:r/_oftc_#sailfishos-porters:matrix.org?action=chat)
-  * [IRC](https://kiwiirc.com/client/irc.freenode.net:+6697/#sailfishos-porters)
+  * [IRC](https://kiwiirc.com/client/irc.oftc.net:+6697/#sailfishos-porters)
 * NemoMobile
   * [Telegram](https://t.me/NemoMobile)
   * [Matrix](matrix:r/_oftc_#nemomobile:matrix.org?action=chat)
-  * [IRC](https://kiwiirc.com/client/irc.freenode.net:+6697/#NemoMobile)
+  * [IRC](https://kiwiirc.com/client/irc.oftc.net:+6697/#NemoMobile)
 * SfOS QML App dev
   * [Telegram](https://t.me/joinchat/Az9rWwlOc_JbRyYH7hxG7Q)
 
@@ -94,7 +94,7 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 * SailfishOS Hackclub Helsinki
   * [Telegram](https://telegram.me/joinchat/AWx9iQi71psKR-isKktNTQ)
   * [Matrix](https://riot.im/app/#/room/#sailfishos-hackclub-helsinki:disroot.org)
-  * [IRC](https://kiwiirc.com/client/irc.freenode.net:+6697/#sailfish-hackclub-hki)
+  * [IRC](https://kiwiirc.com/client/irc.oftc.net:+6697/#sailfish-hackclub-hki)
 
 ### In Spanish
 
@@ -119,7 +119,7 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 
 * SailfishOS Fan Club
   * [Telegram](https://t.me/jollacn)
-  * [IRC](https://kiwiirc.com/client/irc.freenode.net:+6697/#jolla-cn)
+  * [IRC](https://kiwiirc.com/client/irc.oftc.net:+6697/#jolla-cn)
   * [旗鱼俱乐部](https://sailfishos.club)
   * [QQ 群](https://jq.qq.com/?_wv=1027&k=5Ci7vyS)
 
