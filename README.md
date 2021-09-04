@@ -70,16 +70,16 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 * Sailfish OS-meeting
 
   * [Telegram READ-ONLY](https://t.me/joinchat/AAAAAFcbasJX67Fu-aGxxQ)
-  * [Matrix](https://riot.im/app/#/room/#freenode_#mer-meeting)
+  * [Matrix](matrix:r/_oftc_#mer-meeting:matrix.org?action=chat)
   * [IRC](https://kiwiirc.com/client/irc.freenode.net:+6697/#Mer-meeting)
 
 * #sailfishos-porters
   * [Telegram](https://t.me/sailfishos_porters)
-  * [Matrix](https://riot.im/app/#/room/#freenode_#sailfishos-porters:matrix.org)
+  * [Matrix](matrix:r/_oftc_#sailfishos-porters:matrix.org?action=chat)
   * [IRC](https://kiwiirc.com/client/irc.freenode.net:+6697/#sailfishos-porters)
 * NemoMobile
   * [Telegram](https://t.me/NemoMobile)
-  * [Matrix](https://riot.im/app/#/room/#freenode_#nemomobile:matrix.org)
+  * [Matrix](matrix:r/_oftc_#nemomobile:matrix.org?action=chat)
   * [IRC](https://kiwiirc.com/client/irc.freenode.net:+6697/#NemoMobile)
 * SfOS QML App dev
   * [Telegram](https://t.me/joinchat/Az9rWwlOc_JbRyYH7hxG7Q)
