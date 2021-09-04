@@ -34,10 +34,9 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 
 ## Sailfish OS
 
-* [Sailfish Wiki](https://sailfishos.org/about/) - Wiki about Sailfish OS
 * [Sailfish OS Community](https://sailfishos.org/community/) - About Sailfish OS
   community
-* [together.jolla.com](https://together.jolla.com/questions/) - The place to ask
+* [SailfishOS Forum](https://forum.sailfishos.org) - The place to ask
   questions
 * [Sailfish OSS](https://wiki.merproject.org/wiki/SailfishOSS) - List of the
   different components of Sailfish OS and whether they are OSS
