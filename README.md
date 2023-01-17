@@ -34,11 +34,10 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 
 ## Sailfish OS
 
+* [Sailfish OS Forum](https://forum.sailfishos.org/) - Official discussion forum
 * [Sailfish Wiki](https://sailfishos.org/about/) - Wiki about Sailfish OS
 * [Sailfish OS Community](https://sailfishos.org/community/) - About Sailfish OS
   community
-* [together.jolla.com](https://together.jolla.com/questions/) - The place to ask
-  questions
 * [Sailfish OSS](https://wiki.merproject.org/wiki/SailfishOSS) - List of the
   different components of Sailfish OS and whether they are OSS
 * [Developer Documentation](https://sailfishos.org/wiki/SailfishOS) -
@@ -50,10 +49,6 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 
 * [Storeman](https://github.com/mentaljam/harbour-storeman) - Unofficial native
   OpenRepos.net client for Sailfish OS
-* [OwnKeepass](https://github.com/jobe-m/ownkeepass) - Password safe
-  application for Sailfish OS built on top of KeepassX
-* [Working Hours Tracker](https://wht.olpe.fi/) - Easy to use and simple
-  Working Hours Tracker for SailfishOS
 * [Sailfish Apps](https://github.com/sailfishapps) - Unofficial Sailfish OS third party open source apps collection
 
 ## Deploy
