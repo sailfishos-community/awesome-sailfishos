@@ -84,13 +84,11 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 
 ### In German
 
-* Deutsche Sailfish OS Community
-  * [Telegram](https://t.me/joinchat/CCMYXQnxqdpVWVooiTdWTQ)
+* [Deutsche Sailfish OS Community auf Telegram](https://t.me/joinchat/CCMYXQnxqdpVWVooiTdWTQ)
 
 ### In French
 
-* Sailfish OS Francophonie
-  * [Telegram](https://t.me/sfosfr)
+* [Sailfish OS Francophonie sur Telegram](https://t.me/sfosfr)
 
 ### In Spanish
 
@@ -99,13 +97,13 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 ### In Italian
 
 * [Jolla Community Italia](https://jollacommunity.it) - Sailfish OS Related news, guides, forum and other resources
-* [Jolla Community Italia](https://t.me/jollait) - News channel (read-only)
-* [Jolla Community Italia Club](https://t.me/jollaitclub) - Group for discussion
+* [Jolla Community Italia Telegram channel](https://t.me/jollait) - News channel (read-only)
+* [Jolla Community Italia Club su Telegram](https://t.me/jollaitclub) - Group for discussion
 
 ### In Turkish
 
+* [SailfishOS TR Telegram](https://t.me/sailfishostr)
 * [Sailfish OS - MaxiCep](https://www.maxicep.com/forum/kategori/sailfish-os.765/) - Sub forum about Sailfish OS
-* [Telegram](https://t.me/sailfishostr)
 
 ### In Chinese
 
