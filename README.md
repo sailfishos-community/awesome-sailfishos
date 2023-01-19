@@ -17,7 +17,7 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 * [Sailfish OS](#sailfish-os)
 * [Applications](#applications)
 * [Tips and Tricks](#tips-and-tricks)
-* [Instant Messaging](#instant-messaging)
+* [Instant Messaging & Social Media](#instant-messaging)
   * [In English](#in-english)
   * [In German](#in-german)
   * [In French](#in-french)
@@ -60,7 +60,7 @@ Sailfish OS is a mobile operating system based on open source and developed by t
   Collection of useful commands that are not so easy to remember
 * [Equivalents in Sailfish](https://github.com/maidis/equivalentsinsailfish) - List that shows Android apps and their Sailfish equivalents
 
-## Instant Messaging
+## Instant Messaging & Social Media
 
 ### In English
 
@@ -68,6 +68,9 @@ Sailfish OS is a mobile operating system based on open source and developed by t
   * [Telegram](https://t.me/+KeJKDDA60uU2M2Q0)
   * [oftc.net IRC #sailfishos-fanclub](https://webchat.oftc.net/?channels=sailfishos-fanclub)
   * [Matrix](https://riot.im/app/#/room/#jfc:matrix.org)
+*Sailfish OS News Channel
+  * [Telegram](https://t.me/sailfishosnews)
+  * [Mastodon](https://mastodon.social/@sailfishosnews)
 * SailfishOS-Meeting (official regular meetings by Jolla)
   * [oftc.net IRC #sailfishos-meeting](https://webchat.oftc.net/?channels=#sailfishos-meeting)
   * [Telegram READ-ONLY](https://t.me/joinchat/AAAAAFcbasJX67Fu-aGxxQ)
