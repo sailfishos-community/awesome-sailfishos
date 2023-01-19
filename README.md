@@ -36,12 +36,12 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 
 * [Sailfish OS Forum](https://forum.sailfishos.org/) - Official discussion forum
 * [Sailfish Wiki](https://sailfishos.org/about/) - Wiki about Sailfish OS
-* [Sailfish OS Community](https://sailfishos.org/community/) - About Sailfish OS
+* [Sailfish OS Community](https://sailfishos.org/community/) - About the Sailfish OS
   community
 * [Sailfish OSS](https://wiki.merproject.org/wiki/SailfishOSS) - List of the
   different components of Sailfish OS and whether they are OSS
-* [Developer Documentation](https://sailfishos.org/wiki/SailfishOS) -
-  Documentation for Sailfish OS developers
+* [Sailfish OS documentation](https://docs.sailfishos.org/) -
+  Documentation for Sailfish OS and app developers and translations
 * [SailfishOS Ports List](https://wiki.merproject.org/wiki/Adaptations/libhybris) -
   List of unofficial SailfishOS ports
 
@@ -49,7 +49,8 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 
 * [Storeman](https://github.com/mentaljam/harbour-storeman) - Unofficial native
   OpenRepos.net client for Sailfish OS
-* [Sailfish Apps](https://github.com/sailfishapps) - Unofficial Sailfish OS third party open source apps collection
+* [Chum Community Repository](https://github.com/sailfishos-chum/main) - provides a collection of applications, tools and libraries compiled for various hardware architectures and Sailfish OS release versions.
+
 
 ## Deploy
 * [therecipe/qt](https://github.com/therecipe/qt) - QML Cross-platform Apps with docker
@@ -66,12 +67,14 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 ### In English
 
 * SailfishOS Fan Club
-  * [Telegram](https://t.me/joinchat/AWx9iUE-U9pZ_NeJlxXs0w)
+  * [Telegram](https://t.me/+KeJKDDA60uU2M2Q0)
   * [Matrix](https://riot.im/app/#/room/#jfc:matrix.org)
-  * [IRC](https://kiwiirc.com/client/irc.freenode.net:+6697/#jollafanclub)
-* Mer-meeting
-  * [Telegram READ-ONLY](https://t.me/joinchat/AWx9iQKLefzSQFXQqq_hyw)
-  * [IRC](https://webchat.freenode.net/?channels=#sailfishos-meeting )
+  * [oftc.net IRC #sailfishos-fanclub](https://webchat.oftc.net/?channels=sailfishos-fanclub)
+* SailfishOS-Meeting (official regular meeting by Jolla)
+  * [Telegram READ-ONLY](https://t.me/joinchat/AAAAAFcbasJX67Fu-aGxxQ)
+  * [oftc.net IRC #sailfishos-meeting](https://webchat.oftc.net/?channels=#sailfishos-meeting)
+* #sailfishos (official IRC channel by Jolla)
+  * [IRC on OFTC](https://webchat.oftc.net/?channels=sailfishos)
 * #sailfishos-porters
   * [Telegram](https://t.me/sailfishos_porters)
   * [Matrix](https://riot.im/app/#/room/#freenode_#sailfishos-porters:matrix.org)
@@ -80,26 +83,14 @@ Sailfish OS is a mobile operating system based on open source and developed by t
   * [Telegram](https://t.me/NemoMobile)
   * [Matrix](https://riot.im/app/#/room/#freenode_#nemomobile:matrix.org)
   * [IRC](https://kiwiirc.com/client/irc.freenode.net:+6697/#NemoMobile)
-* SfOS QML App dev
-  * [Telegram](https://t.me/joinchat/Az9rWwlOc_JbRyYH7hxG7Q)
 
 ### In German
 
 * Deutsche Sailfish OS Community
   * [Telegram](https://t.me/joinchat/CCMYXQnxqdpVWVooiTdWTQ)
 
-### In Finnish
-
-* SailfishOS Hackclub Helsinki
-  * [Telegram](https://telegram.me/joinchat/AWx9iQi71psKR-isKktNTQ)
-  * [Matrix](https://riot.im/app/#/room/#sailfishos-hackclub-helsinki:disroot.org)
-  * [IRC](https://kiwiirc.com/client/irc.freenode.net:+6697/#sailfish-hackclub-hki)
-
 ### In Spanish
 
-* Liñux
-  * [Telegram](https://t.me/joinchat/AYOjv0Bp2yQI9r2vW29mPQ)
-* [Grupo de Telegram del Observatorio de Sistemas Operativos Móviles Alternativos (OSOMA)](https://t.me/osomamx)
 * [Grupo de Telegram Sailfish ES](https://t.me/sailfish_es)
 
 ### In Italian
@@ -110,7 +101,6 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 
 ### In Turkish
 
-* [JollaTr](https://jollatr.blogspot.com.tr/) - Blog about Sailfish OS
 * [Sailfish OS - MaxiCep](https://www.maxicep.com/forum/kategori/sailfish-os.765/) - Sub forum about Sailfish OS
 * [Telegram](https://t.me/sailfishostr)
 
@@ -124,7 +114,7 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 
 ### In Russian
 
-* [Sailfish OS Telegram chat](https://t.me/sailfishos)
+* [Sailfish OS / Aurora OS Telegram chat](https://t.me/sailfishos)
 * [Sailfish OS Pub Telegram chat](https://t.me/sailfishos_pub)
 
 ## Academic
