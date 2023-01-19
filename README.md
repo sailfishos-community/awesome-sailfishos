@@ -21,7 +21,6 @@ Sailfish OS is a mobile operating system based on open source and developed by t
   * [In English](#in-english)
   * [In German](#in-german)
   * [In French](#in-french)
-  * [In Finnish](#in-finnish)
   * [In Spanish](#in-spanish)
   * [In Italian](#in-italian)
   * [In Turkish](#in-turkish)
