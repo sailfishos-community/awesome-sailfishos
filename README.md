@@ -20,6 +20,7 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 * [Instant Messaging](#instant-messaging)
   * [In English](#in-english)
   * [In German](#in-german)
+  * [In French](#in-french)
   * [In Finnish](#in-finnish)
   * [In Spanish](#in-spanish)
   * [In Italian](#in-italian)
@@ -38,56 +39,58 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 * [Sailfish Wiki](https://sailfishos.org/about/) - Wiki about Sailfish OS
 * [Sailfish OS Community](https://sailfishos.org/community/) - About the Sailfish OS
   community
-* [Sailfish OSS](https://wiki.merproject.org/wiki/SailfishOSS) - List of the
-  different components of Sailfish OS and whether they are OSS
 * [Sailfish OS documentation](https://docs.sailfishos.org/) -
   Documentation for Sailfish OS and app developers and translations
+* [Sailfish OSS](https://wiki.merproject.org/wiki/SailfishOSS) - List of the
+  different components of Sailfish OS and whether they are OSS
 * [SailfishOS Ports List](https://wiki.merproject.org/wiki/Adaptations/libhybris) -
   List of unofficial SailfishOS ports
+* [Openrepos.net](https://openrepos.net/) - Unofficial app store maintained by the community
+* [Sailfish OS Chum community repository](https://github.com/sailfishos-chum/main) - provides a collection of applications, tools and libraries compiled for various hardware architectures and Sailfish OS release versions.
 
 ## Applications
 
-* [Storeman](https://github.com/mentaljam/harbour-storeman) - Unofficial native
-  OpenRepos.net client for Sailfish OS
-* [Chum Community Repository](https://github.com/sailfishos-chum/main) - provides a collection of applications, tools and libraries compiled for various hardware architectures and Sailfish OS release versions.
-
-
-## Deploy
-* [therecipe/qt](https://github.com/therecipe/qt) - QML Cross-platform Apps with docker
+* [Storeman](https://github.com/storeman-developers/harbour-storeman) - OpenRepos.net (unofficial app store) client for Sailfish OS
+* [Sailfish OS Chum GUI](https://chumrpm.netlify.app/)) - 
 
 ## Tips and Tricks
 
+* [Sailfish OS Cheat Sheet](https://sailfishos.org/wiki/Sailfish_OS_Cheat_Sheet) - Collection of Development Commands
 * [Sailfish Useful Commands](https://github.com/olpeh/sailfish-useful-commands) -
   Collection of useful commands that are not so easy to remember
 * [Equivalents in Sailfish](https://github.com/maidis/equivalentsinsailfish) - List that shows Android apps and their Sailfish equivalents
-* [Sailfish OS Cheat Sheet](https://sailfishos.org/wiki/Sailfish_OS_Cheat_Sheet) - Collection of Development Commands
 
 ## Instant Messaging
 
 ### In English
 
-* SailfishOS Fan Club
+* Sailfish OS Fan Club
   * [Telegram](https://t.me/+KeJKDDA60uU2M2Q0)
-  * [Matrix](https://riot.im/app/#/room/#jfc:matrix.org)
   * [oftc.net IRC #sailfishos-fanclub](https://webchat.oftc.net/?channels=sailfishos-fanclub)
-* SailfishOS-Meeting (official regular meeting by Jolla)
-  * [Telegram READ-ONLY](https://t.me/joinchat/AAAAAFcbasJX67Fu-aGxxQ)
+  * [Matrix](https://riot.im/app/#/room/#jfc:matrix.org)
+* SailfishOS-Meeting (official regular meetings by Jolla)
   * [oftc.net IRC #sailfishos-meeting](https://webchat.oftc.net/?channels=#sailfishos-meeting)
-* #sailfishos (official IRC channel by Jolla)
-  * [IRC on OFTC](https://webchat.oftc.net/?channels=sailfishos)
-* #sailfishos-porters
+  * [Telegram READ-ONLY](https://t.me/joinchat/AAAAAFcbasJX67Fu-aGxxQ)
+* Sailfish OS on IRC (official channel by Jolla)
+  * [oftc.net IRC #sailfishos](https://webchat.oftc.net/?channels=sailfishos)
+* Sailfish OS Porters
   * [Telegram](https://t.me/sailfishos_porters)
-  * [Matrix](https://riot.im/app/#/room/#freenode_#sailfishos-porters:matrix.org)
   * [IRC](https://kiwiirc.com/client/irc.freenode.net:+6697/#sailfishos-porters)
+  * [Matrix](https://riot.im/app/#/room/#freenode_#sailfishos-porters:matrix.org)
 * NemoMobile
   * [Telegram](https://t.me/NemoMobile)
-  * [Matrix](https://riot.im/app/#/room/#freenode_#nemomobile:matrix.org)
   * [IRC](https://kiwiirc.com/client/irc.freenode.net:+6697/#NemoMobile)
+  * [Matrix](https://riot.im/app/#/room/#freenode_#nemomobile:matrix.org)
 
 ### In German
 
 * Deutsche Sailfish OS Community
   * [Telegram](https://t.me/joinchat/CCMYXQnxqdpVWVooiTdWTQ)
+
+### In French
+
+* Sailfish OS Francophonie
+  * [Telegram](https://t.me/sfosfr)
 
 ### In Spanish
 
