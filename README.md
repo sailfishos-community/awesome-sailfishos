@@ -13,7 +13,7 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 * [Sailfish OS](#sailfish-os)
-* [Jolla])(#jolla)
+* [Jolla](#jolla)
 * [Applications](#applications)
 * [Tips and Tricks](#tips-and-tricks)
 * [Instant Messaging & Social Media](#instant-messaging)
