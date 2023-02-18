@@ -34,15 +34,15 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 ## Sailfish OS
 
 * [Sailfish OS Forum](https://forum.sailfishos.org/) - Official discussion forum
-* [Sailfish OS Community](https://sailfishos.org/community/) - About the Sailfish OS community
-* [Sailfish OS Release Notes](https://forum.sailfishos.org/tag/release-notes) - release notes of Sailfish OS and SDK updates
+* [Sailfish OS Release Notes](https://forum.sailfishos.org/tag/release-notes) - Sailfish OS and SDK release notes
 * [Sailfish OS Documentation](https://docs.sailfishos.org/) - Documentation for Sailfish OS and app developers and translations
+* [Sailfish OS Community](https://sailfishos.org/community/) - About the Sailfish OS community
 * [Sailfish OSS](https://wiki.merproject.org/wiki/SailfishOSS) - List of the different components of Sailfish OS and whether they are OSS
 * [Community Hardware Adaptations](https://forum.sailfishos.org/t/community-hardware-adaptations/14081) - List of unofficial Sailfish OS ports
 
 ## Jolla
 * [Jolla Website](https://jolla.com/) - official Jolla website
-* [Jolla Shop](https://shop.jolla.com/) - place where you can download and/or buy official Sailfish OS ports
+* [Jolla Shop](https://shop.jolla.com/) - download and/or buy official Sailfish OS ports
 * [Jolla on Facebook](http://www.facebook.com/jollaofficial) - official Facebook account
 * [Jolla on Twitter](http://twitter.com/jollahq) - official Twitter account
 
