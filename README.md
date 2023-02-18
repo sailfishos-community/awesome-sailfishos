@@ -66,7 +66,7 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 * Sailfish OS Fan Club
   * [Telegram](https://t.me/+KeJKDDA60uU2M2Q0)
   * [oftc.net IRC #sailfishos-fanclub](https://webchat.oftc.net/?channels=sailfishos-fanclub)
-  * [Matrix](https://riot.im/app/#/room/#jfc:matrix.org)
+  * [Matrix](https://matrix.to/#/#_oftc_#sailfishos-fanclub:matrix.org)
   * [Information and chat rules](https://telegra.ph/Sailfish-OS-Fan-Club-05-19)
 * Sailfish OS News Channel
   * [Telegram](https://t.me/sailfishosnews)
