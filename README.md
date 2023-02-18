@@ -63,18 +63,18 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 
 ### In English
 
-* Sailfish OS Fan Club
+* Sailfish OS Fan Club Chat Group
+  * [Information and chat rules](https://telegra.ph/Sailfish-OS-Fan-Club-05-19)
   * [Telegram](https://t.me/+KeJKDDA60uU2M2Q0)
   * [oftc.net IRC #sailfishos-fanclub](https://webchat.oftc.net/?channels=sailfishos-fanclub)
   * [Matrix](https://matrix.to/#/#_oftc_#sailfishos-fanclub:matrix.org)
-  * [Information and chat rules](https://telegra.ph/Sailfish-OS-Fan-Club-05-19)
 * Sailfish OS News Channel
   * [Telegram](https://t.me/sailfishosnews)
   * [Mastodon](https://mastodon.social/@sailfishosnews)
 * SailfishOS-Meeting (official regular meetings by Jolla)
-  * [oftc.net IRC #sailfishos-meeting](https://webchat.oftc.net/?channels=#sailfishos-meeting)
-  * [Telegram READ-ONLY](https://t.me/joinchat/AAAAAFcbasJX67Fu-aGxxQ)
   * [Meeting announcements and information](https://forum.sailfishos.org/tag/community-meeting)
+  * [oftc.net IRC #sailfishos-meeting](https://webchat.oftc.net/?channels=#sailfishos-meeting)
+  * [Telegram (read-only)](https://t.me/joinchat/AAAAAFcbasJX67Fu-aGxxQ)
 * Sailfish OS on IRC (official channel by Jolla)
   * [oftc.net IRC #sailfishos](https://webchat.oftc.net/?channels=sailfishos)
 * Sailfish OS Porters
@@ -106,14 +106,14 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 
 ### In Turkish
 
-* [SailfishOS TR Telegram](https://t.me/sailfishostr)
+* [SailfishOS TR](https://t.me/sailfishostr) - Telegram group
 * [Sailfish OS - MaxiCep](https://www.maxicep.com/forum/kategori/sailfish-os.765/) - Sub forum about Sailfish OS
 
 ### In Chinese
 
 * SailfishOS Fan Club
-  * [Jolla-Sailfish OS 中文交流群](https://t.me/jollacn) - Telegram channel
-  * [IRC](https://kiwiirc.com/client/irc.freenode.net:+6697/#jolla-cn) - IRC-bridge to the Telegram channel
+  * [Jolla-Sailfish OS 中文交流群](https://t.me/jollacn) - Telegram group
+  * [IRC](https://kiwiirc.com/client/irc.freenode.net:+6697/#jolla-cn) - IRC-bridge to the Telegram group
   * [旗鱼俱乐部](https://sailfishos.club) - Community forum
 
 ### In Russian
