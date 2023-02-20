@@ -63,12 +63,12 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 
 ### In English
 
-* Sailfish OS Fan Club Chat Group
+* Sailfish OS Fan Club (group chat for all things related to Sailfish OS)
   * [Information and chat rules](https://telegra.ph/Sailfish-OS-Fan-Club-05-19)
   * [Telegram](https://t.me/+KeJKDDA60uU2M2Q0)
   * [oftc.net IRC #sailfishos-fanclub](https://webchat.oftc.net/?channels=sailfishos-fanclub)
   * [Matrix](https://matrix.to/#/#_oftc_#sailfishos-fanclub:matrix.org)
-* Sailfish OS News Channel
+* Sailfish OS News Channel 
   * [Telegram](https://t.me/sailfishosnews)
   * [Mastodon](https://mastodon.social/@sailfishosnews)
 * SailfishOS-Meeting (official regular meetings by Jolla)
@@ -77,48 +77,48 @@ Sailfish OS is a mobile operating system based on open source and developed by t
   * [Telegram (read-only)](https://t.me/joinchat/AAAAAFcbasJX67Fu-aGxxQ)
 * Sailfish OS on IRC (official channel by Jolla)
   * [oftc.net IRC #sailfishos](https://webchat.oftc.net/?channels=sailfishos)
-* Sailfish OS Porters
+* Sailfish OS Porters (group chat about hardware adaptions)
   * [Telegram](https://t.me/sailfishos_porters)
   * [IRC](https://kiwiirc.com/client/irc.freenode.net:+6697/#sailfishos-porters)
   * [Matrix](https://riot.im/app/#/room/#freenode_#sailfishos-porters:matrix.org)
-* NemoMobile
+* NemoMobile (Nemo Mobile UX group chat)
   * [Telegram](https://t.me/NemoMobile)
   * [IRC](https://kiwiirc.com/client/irc.freenode.net:+6697/#NemoMobile)
   * [Matrix](https://riot.im/app/#/room/#freenode_#nemomobile:matrix.org)
 
 ### In German
 
-* [Sailfish OS Community](https://t.me/joinchat/CCMYXQnxqdpVWVooiTdWTQ) - Telegram group
+* [Sailfish OS Community](https://t.me/joinchat/CCMYXQnxqdpVWVooiTdWTQ) - Telegram group chat
 
 ### In French
 
-* [SailfishOS Francophonie](https://t.me/sfosfr) - Telegram group
+* [SailfishOS Francophonie](https://t.me/sfosfr) - Telegram group chat
 
 ### In Spanish
 
-* [Sailfish ES](https://t.me/sailfish_es) - Telegram group
+* [Sailfish ES](https://t.me/sailfish_es) - Telegram group chat
 
 ### In Italian
 
 * [Jolla Community Italia](https://jollacommunity.it) - Website with Sailfish OS related news, guides, forum and other resources
 * [Jolla Community Italia channel](https://t.me/jollait) - Telegram channel with news from the Italian community (read-only)
-* [Jolla Community Italia Club](https://t.me/jollaitclub) - Telegram Group 
+* [Jolla Community Italia Club](https://t.me/jollaitclub) - Telegram group chat 
 
 ### In Turkish
 
-* [SailfishOS TR](https://t.me/sailfishostr) - Telegram group
+* [SailfishOS TR](https://t.me/sailfishostr) - Telegram group chat
 * [Sailfish OS - MaxiCep](https://www.maxicep.com/forum/kategori/sailfish-os.765/) - Sub forum about Sailfish OS
 
 ### In Chinese
 
 * SailfishOS Fan Club
-  * [Jolla-Sailfish OS 中文交流群](https://t.me/jollacn) - Telegram group
-  * [IRC](https://kiwiirc.com/client/irc.freenode.net:+6697/#jolla-cn) - IRC-bridge to the Telegram group
+  * [Jolla-Sailfish OS 中文交流群](https://t.me/jollacn) - Telegram group chat
+  * [IRC](https://kiwiirc.com/client/irc.freenode.net:+6697/#jolla-cn) - IRC-bridge to the Telegram group chat
   * [旗鱼俱乐部](https://sailfishos.club) - Community forum
 
 ### In Russian
 
-* [Sailfish OS / Aurora OS chat](https://t.me/sailfishos) - Telegram group 
+* [Sailfish OS / Aurora OS chat](https://t.me/sailfishos) - Telegram group chat
 
 ## Academic
 * [Asterism: Decentralized File Sharing Application for Mobile Devices](https://www.researchgate.net/publication/330758943_Asterism_Decentralized_File_Sharing_Application_for_Mobile_Devices)
