@@ -9,26 +9,26 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 ## Contents
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
-
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-* [Sailfish OS](#sailfish-os)
-* [Jolla](#jolla)
-* [Application Sources / Stores](#stores)
-* [Useful Communications Apps](#applications)
-* [Tips and Tricks](#tips-and-tricks)
-* [Instant Messaging & Social Media](#instant-messaging)
-  * [In English](#in-english)
-  * [In German](#in-german)
-  * [In French](#in-french)
-  * [In Spanish](#in-spanish)
-  * [In Italian](#in-italian)
-  * [In Turkish](#in-turkish)
-  * [In Chinese](#in-chinese)
-  * [In Russian](#in-russian)
-* [Academic](#academic)
-* [Related](#related)
-* [License](#license)
+- [Sailfish OS](#sailfish-os)
+- [Jolla](#jolla)
+- [Application Sources / Stores](#application-sources--stores)
+- [Useful Communications Apps](#useful-communications-apps)
+- [Tips and Tricks](#tips-and-tricks)
+- [Instant Messaging, Social Media and other](#instant-messaging-social-media-and-other)
+  - [In English](#in-english)
+  - [In German](#in-german)
+  - [In French](#in-french)
+  - [In Spanish](#in-spanish)
+  - [In Italian](#in-italian)
+  - [In Turkish](#in-turkish)
+  - [In Chinese](#in-chinese)
+  - [In Russian](#in-russian)
+- [Academic](#academic)
+- [Related](#related)
+- [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
