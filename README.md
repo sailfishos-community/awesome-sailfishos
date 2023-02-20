@@ -14,7 +14,8 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 
 * [Sailfish OS](#sailfish-os)
 * [Jolla](#jolla)
-* [Applications](#applications)
+* [Application Sources / stores](#stores)
+* [Useful Communications Apps](#applications)
 * [Tips and Tricks](#tips-and-tricks)
 * [Instant Messaging & Social Media](#instant-messaging)
   * [In English](#in-english)
@@ -46,11 +47,18 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 * [Jolla on Facebook](http://www.facebook.com/jollaofficial) - official Facebook account
 * [Jolla on Twitter](http://twitter.com/jollahq) - official Twitter account
 
-## Applications / Stores
+## Application Sources / Stores
 * [Openrepos.net](https://openrepos.net/) - Unofficial app website maintained by the community
 * [Storeman app for Openrepos.net (Github)](https://github.com/storeman-developers/harbour-storeman) - Sailfish OS client for openrepos.net
 * [Sailfish OS Chum Community Repository (Github)](https://github.com/sailfishos-chum/main) - provides a collection of applications, tools and libraries
 * [Sailfish OS Chum GUI](https://chumrpm.netlify.app/) - Sailfish OS client for the chum community repository 
+
+## Useful Communications Apps
+* [Communi](https://openrepos.net/content/thaodan/communi) - IRC client
+* [Sailtrix](https://openrepos.net/content/hengyedev/sailtrix) - Matrix client
+* [Fernschreiber](https://openrepos.net/content/werkwolf/fernschreiber) - Telegram client
+* [Tooter β](https://openrepos.net/content/molan/tooter-v) - Mastodon client
+* [Piepmatz](https://openrepos.net/content/werkwolf/piepmatz) - Twitter client
 
 ## Tips and Tricks
 
