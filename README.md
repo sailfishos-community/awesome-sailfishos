@@ -64,23 +64,22 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 ### In English
 
 * SailfishOS Fan Club
-  * [Telegram](https://t.me/joinchat/gkQEMR5cOh1iMTA8)
-  * [Matrix](https://riot.im/app/#/room/#jfc:matrix.org)
-  * [IRC](https://webchat.oftc.net/?channels=#jollafanclub)
+ * [Telegram](https://t.me/joinchat/gkQEMR5cOh1iMTA8)
+ * [Matrix](https://matrix.to/#/%23_oftc_%23sailfishos-fanclub%3Amatrix.org)
+ * [IRC](https://webchat.oftc.net/?channels=#sailfishos-fanclub)
 * Sailfish OS-meeting
 
   * [Telegram READ-ONLY](https://t.me/joinchat/AAAAAFcbasJX67Fu-aGxxQ)
-  * [Matrix](matrix:r/_oftc_#sailfishos-meeting:matrix.org?action=chat)
+  * [Matrix](https://matrix.to/#/%23_oftc_%23sailfishos-meeting%3Amatrix.org)
   * [IRC](https://webchat.oftc.net/?channels=#sailfishos-meeting)
 
 * #sailfishos-porters
   * [Telegram](https://t.me/sailfishos_porters)
-  * [Matrix](matrix:r/_oftc_#sailfishos-porters:matrix.org?action=chat)
+  * [Matrix](https://matrix.to/#/%23_oftc_%23sailfishos-porters%3Amatrix.org)
   * [IRC](https://webchat.oftc.net/?channels=#sailfishos-porters)
 * NemoMobile
   * [Telegram](https://t.me/NemoMobile)
-  * [Matrix](matrix:r/_oftc_#nemomobile:matrix.org?action=chat)
-  * [IRC](https://webchat.oftc.net/?channels=#NemoMobile)
+  * [Matrix](https://matrix.to/#/%23nemomobile%3Amatrix.org)
 * SfOS QML App dev
   * [Telegram](https://t.me/joinchat/Az9rWwlOc_JbRyYH7hxG7Q)
 
