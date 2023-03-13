@@ -86,12 +86,12 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 ### In German
 
 * Deutsche Sailfish OS Community
-  * [Telegram](https://t.me/joinchat/CCMYXQnxqdpVWVooiTdWTQ)
+  * Telegram
 
 ### In Finnish
 
 * SailfishOS Hackclub Helsinki
-  * [Telegram](https://telegram.me/joinchat/AWx9iQi71psKR-isKktNTQ)
+  * Telegram
 
 ### In Spanish
 
