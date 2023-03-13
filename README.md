@@ -117,7 +117,6 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 
 * SailfishOS Fan Club
   * [Telegram](https://t.me/jollacn)
-  * [IRC](https://webchat.oftc.net/?channels=#jolla-cn)
   * [旗鱼俱乐部](https://sailfishos.club)
   * [QQ 群](https://jq.qq.com/?_wv=1027&k=5Ci7vyS)
 
