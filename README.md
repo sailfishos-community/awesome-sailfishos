@@ -66,21 +66,21 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 * SailfishOS Fan Club
   * [Telegram](https://t.me/joinchat/gkQEMR5cOh1iMTA8)
   * [Matrix](https://riot.im/app/#/room/#jfc:matrix.org)
-  * [IRC](https://kiwiirc.com/client/irc.oftc.net:+6697/#jollafanclub)
+  * [IRC](https://webchat.oftc.net/?channels=#jollafanclub)
 * Sailfish OS-meeting
 
   * [Telegram READ-ONLY](https://t.me/joinchat/AAAAAFcbasJX67Fu-aGxxQ)
   * [Matrix](matrix:r/_oftc_#sailfishos-meeting:matrix.org?action=chat)
-  * [IRC](https://kiwiirc.com/client/irc.oftc.net:+6697/#sailfishos-meeting)
+  * [IRC](https://webchat.oftc.net/?channels=#sailfishos-meeting)
 
 * #sailfishos-porters
   * [Telegram](https://t.me/sailfishos_porters)
   * [Matrix](matrix:r/_oftc_#sailfishos-porters:matrix.org?action=chat)
-  * [IRC](https://kiwiirc.com/client/irc.oftc.net:+6697/#sailfishos-porters)
+  * [IRC](https://webchat.oftc.net/?channels=#sailfishos-porters)
 * NemoMobile
   * [Telegram](https://t.me/NemoMobile)
   * [Matrix](matrix:r/_oftc_#nemomobile:matrix.org?action=chat)
-  * [IRC](https://kiwiirc.com/client/irc.oftc.net:+6697/#NemoMobile)
+  * [IRC](https://webchat.oftc.net/?channels=#NemoMobile)
 * SfOS QML App dev
   * [Telegram](https://t.me/joinchat/Az9rWwlOc_JbRyYH7hxG7Q)
 
@@ -117,7 +117,7 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 
 * SailfishOS Fan Club
   * [Telegram](https://t.me/jollacn)
-  * [IRC](https://kiwiirc.com/client/irc.oftc.net:+6697/#jolla-cn)
+  * [IRC](https://webchat.oftc.net/?channels=#jolla-cn)
   * [旗鱼俱乐部](https://sailfishos.club)
   * [QQ 群](https://jq.qq.com/?_wv=1027&k=5Ci7vyS)
 
