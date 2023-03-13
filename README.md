@@ -14,6 +14,7 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 
 - [Sailfish OS](#sailfish-os)
 - [Applications](#applications)
+- [Deploy](#deploy)
 - [Tips and Tricks](#tips-and-tricks)
 - [Instant Messaging](#instant-messaging)
   - [In English](#in-english)
@@ -51,6 +52,10 @@ Sailfish OS is a mobile operating system based on open source and developed by t
   OpenRepos.net client for Sailfish OS
 * [Working Hours Tracker](https://wht.olpe.fi/) - Easy to use and simple
   Working Hours Tracker for SailfishOS
+
+## Deploy
+
+* [therecipe/qt](https://github.com/therecipe/qt) - QML Cross-platform Apps with docker
 
 ## Tips and Tricks
 
