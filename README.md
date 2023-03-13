@@ -9,26 +9,24 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 ## Contents
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
-
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-
-* [Sailfish OS](#sailfish-os)
-* [Applications](#applications)
-* [Tips and Tricks](#tips-and-tricks)
-* [Instant Messaging](#instant-messaging)
-  * [In English](#in-english)
-  * [In German](#in-german)
-  * [In Finnish](#in-finnish)
-  * [In Spanish](#in-spanish)
-  * [In Italian](#in-italian)
-  * [In Turkish](#in-turkish)
-  * [In Chinese](#in-chinese)
-  * [In Russian](#in-russian)
-* [Academic](#academic)
-* [Related](#related)
-* [License](#license)
+- [Sailfish OS](#sailfish-os)
+- [Applications](#applications)
+- [Tips and Tricks](#tips-and-tricks)
+- [Instant Messaging](#instant-messaging)
+  - [In English](#in-english)
+  - [In German](#in-german)
+  - [In Finnish](#in-finnish)
+  - [In Spanish](#in-spanish)
+  - [In Italian](#in-italian)
+  - [In Turkish](#in-turkish)
+  - [In Chinese](#in-chinese)
+  - [In Russian](#in-russian)
+- [Academic](#academic)
+- [Related](#related)
+- [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
