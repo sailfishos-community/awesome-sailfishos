@@ -26,6 +26,7 @@ Sailfish OS is a mobile operating system based on open source and developed by t
   - [In Turkish](#in-turkish)
   - [In Chinese](#in-chinese)
   - [In Russian](#in-russian)
+  - [In Arabian](#in-arabian)
 - [Academic](#academic)
 - [Related](#related)
 - [License](#license)
@@ -127,6 +128,12 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 ### In Russian
 
 * [Sailfish OS / Aurora OS chat](https://t.me/sailfishos) - Telegram group chat
+
+### In Arabian
+
+* Sailfish OS Arabic Community
+  * [Telegram](https://t.me/SFOS_AR)
+  * [Matrix](https://matrix.to/#/#SFOS_AR:matrix.org) 
 
 ## Academic
 * [Asterism: Decentralized File Sharing Application for Mobile Devices](https://www.researchgate.net/publication/330758943_Asterism_Decentralized_File_Sharing_Application_for_Mobile_Devices)
