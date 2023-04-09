@@ -9,39 +9,39 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 ## Contents
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
-
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-
-* [Sailfish OS](#sailfish-os)
-* [Applications](#applications)
-* [Tips and Tricks](#tips-and-tricks)
-* [Instant Messaging](#instant-messaging)
-  * [In English](#in-english)
-  * [In German](#in-german)
-  * [In Finnish](#in-finnish)
-  * [In Spanish](#in-spanish)
-  * [In Italian](#in-italian)
-  * [In Turkish](#in-turkish)
-  * [In Chinese](#in-chinese)
-  * [In Russian](#in-russian)
-* [Academic](#academic)
-* [Related](#related)
-* [License](#license)
+- [Sailfish OS](#sailfish-os)
+- [Applications](#applications)
+- [Deploy](#deploy)
+- [Tips and Tricks](#tips-and-tricks)
+- [Instant Messaging](#instant-messaging)
+  - [In English](#in-english)
+  - [In German](#in-german)
+  - [In Finnish](#in-finnish)
+  - [In Spanish](#in-spanish)
+  - [In Italian](#in-italian)
+  - [In Turkish](#in-turkish)
+  - [In Chinese](#in-chinese)
+  - [In Russian](#in-russian)
+  - [In Arabic](#in-arabic)
+- [Academic](#academic)
+- [Related](#related)
+- [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Sailfish OS
 
-* [Sailfish Wiki](https://sailfishos.org/about/) - Wiki about Sailfish OS
 * [Sailfish OS Community](https://sailfishos.org/community/) - About Sailfish OS
   community
-* [together.jolla.com](https://together.jolla.com/questions/) - The place to ask
+* [SailfishOS Forum](https://forum.sailfishos.org) - The place to ask
   questions
+  * [together.jolla.com](https://together.jolla.com/questions/) - Precedor of SailfishOS Forum, contains historical information
 * [Sailfish OSS](https://wiki.merproject.org/wiki/SailfishOSS) - List of the
   different components of Sailfish OS and whether they are OSS
-* [Developer Documentation](https://sailfishos.org/wiki/SailfishOS) -
+* [SailfishOS Documentation](https://sailfishos.org/wiki/SailfishOS) -
   Documentation for Sailfish OS developers
 * [SailfishOS Ports List](https://wiki.merproject.org/wiki/Adaptations/libhybris) -
   List of unofficial SailfishOS ports
@@ -50,13 +50,11 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 
 * [Storeman](https://github.com/mentaljam/harbour-storeman) - Unofficial native
   OpenRepos.net client for Sailfish OS
-* [OwnKeepass](https://github.com/jobe-m/ownkeepass) - Password safe
-  application for Sailfish OS built on top of KeepassX
 * [Working Hours Tracker](https://wht.olpe.fi/) - Easy to use and simple
   Working Hours Tracker for SailfishOS
-* [Sailfish Apps](https://github.com/sailfishapps) - Unofficial Sailfish OS third party open source apps collection
 
 ## Deploy
+
 * [therecipe/qt](https://github.com/therecipe/qt) - QML Cross-platform Apps with docker
 
 ## Tips and Tricks
@@ -64,6 +62,7 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 * [Sailfish Useful Commands](https://github.com/olpeh/sailfish-useful-commands) -
   Collection of useful commands that are not so easy to remember
 * [Equivalents in Sailfish](https://github.com/maidis/equivalentsinsailfish) - List that shows Android apps and their Sailfish equivalents
+* [List of Android -> SailfishOS applications](https://forum.sailfishos.org/t/list-of-android-sailfish-os-applications/6866)
 * [Sailfish OS Cheat Sheet](https://sailfishos.org/wiki/Sailfish_OS_Cheat_Sheet) - Collection of Development Commands
 
 ## Instant Messaging
@@ -71,37 +70,34 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 ### In English
 
 * SailfishOS Fan Club
-  * [Telegram](https://t.me/joinchat/gkQEMR5cOh1iMTA8)
-  * [Matrix](https://riot.im/app/#/room/#jfc:matrix.org)
-  * [IRC](https://kiwiirc.com/client/irc.freenode.net:+6697/#jollafanclub)
+ * [Telegram](https://t.me/joinchat/gkQEMR5cOh1iMTA8)
+ * [Matrix](https://matrix.to/#/%23_oftc_%23sailfishos-fanclub%3Amatrix.org)
+ * [IRC](https://webchat.oftc.net/?channels=#sailfishos-fanclub)
 * Sailfish OS-meeting
 
   * [Telegram READ-ONLY](https://t.me/joinchat/AAAAAFcbasJX67Fu-aGxxQ)
-  * [Matrix](https://riot.im/app/#/room/#freenode_#mer-meeting)
-  * [IRC](https://kiwiirc.com/client/irc.freenode.net:+6697/#Mer-meeting)
+  * [Matrix](https://matrix.to/#/%23_oftc_%23sailfishos-meeting%3Amatrix.org)
+  * [IRC](https://webchat.oftc.net/?channels=#sailfishos-meeting)
 
 * #sailfishos-porters
   * [Telegram](https://t.me/sailfishos_porters)
-  * [Matrix](https://riot.im/app/#/room/#freenode_#sailfishos-porters:matrix.org)
-  * [IRC](https://kiwiirc.com/client/irc.freenode.net:+6697/#sailfishos-porters)
+  * [Matrix](https://matrix.to/#/%23_oftc_%23sailfishos-porters%3Amatrix.org)
+  * [IRC](https://webchat.oftc.net/?channels=#sailfishos-porters)
 * NemoMobile
   * [Telegram](https://t.me/NemoMobile)
-  * [Matrix](https://riot.im/app/#/room/#freenode_#nemomobile:matrix.org)
-  * [IRC](https://kiwiirc.com/client/irc.freenode.net:+6697/#NemoMobile)
+  * [Matrix](https://matrix.to/#/%23nemomobile%3Amatrix.org)
 * SfOS QML App dev
   * [Telegram](https://t.me/joinchat/Az9rWwlOc_JbRyYH7hxG7Q)
 
 ### In German
 
 * Deutsche Sailfish OS Community
-  * [Telegram](https://t.me/joinchat/CCMYXQnxqdpVWVooiTdWTQ)
+  * Telegram
 
 ### In Finnish
 
 * SailfishOS Hackclub Helsinki
-  * [Telegram](https://telegram.me/joinchat/AWx9iQi71psKR-isKktNTQ)
-  * [Matrix](https://riot.im/app/#/room/#sailfishos-hackclub-helsinki:disroot.org)
-  * [IRC](https://kiwiirc.com/client/irc.freenode.net:+6697/#sailfish-hackclub-hki)
+  * Telegram
 
 ### In Spanish
 
@@ -126,7 +122,6 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 
 * SailfishOS Fan Club
   * [Telegram](https://t.me/jollacn)
-  * [IRC](https://kiwiirc.com/client/irc.freenode.net:+6697/#jolla-cn)
   * [旗鱼俱乐部](https://sailfishos.club)
   * [QQ 群](https://jq.qq.com/?_wv=1027&k=5Ci7vyS)
 
@@ -134,6 +129,11 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 
 * [Sailfish OS Telegram chat](https://t.me/sailfishos)
 * [Sailfish OS Pub Telegram chat](https://t.me/sailfishos_pub)
+
+### In Arabic
+
+* [Telegram](https://t.me/SFOS_AR)
+* [Matrix](https://matrix.to/#/%23SFOS_AR%3Amatrix.org)
 
 ## Academic
 * [Asterism: Decentralized File Sharing Application for Mobile Devices](https://www.researchgate.net/publication/330758943_Asterism_Decentralized_File_Sharing_Application_for_Mobile_Devices)
