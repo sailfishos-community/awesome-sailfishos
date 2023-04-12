@@ -52,6 +52,7 @@ Sailfish OS is a mobile operating system based on open source and developed by t
   OpenRepos.net client for Sailfish OS
 - [Working Hours Tracker](https://wht.olpe.fi/) - Easy to use and simple
   Working Hours Tracker for SailfishOS
+- [Chum](https://github.com/sailfishos-chum/main) & [Chum GUI](https://github.com/sailfishos-chum/sailfishos-chum-gui) - A community repository and native client with reproducible builds.
 
 ## Deploy
 
