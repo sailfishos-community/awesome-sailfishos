@@ -10,7 +10,6 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [Sailfish OS](#sailfish-os)
 - [Applications](#applications)
@@ -53,6 +52,7 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 - [Working Hours Tracker](https://wht.olpe.fi/) - Easy to use and simple
   Working Hours Tracker for SailfishOS
 - [Chum](https://github.com/sailfishos-chum/main) & [Chum GUI](https://github.com/sailfishos-chum/sailfishos-chum-gui) - A community repository and native client with reproducible builds.
+- [Whisperfish](https://gitlab.com/whisperfish/whisperfish) - A native Signal client for SailfishOS.
 
 ## Deploy
 
@@ -87,6 +87,8 @@ Sailfish OS is a mobile operating system based on open source and developed by t
   - [Matrix](https://matrix.to/#/%23nemomobile%3Amatrix.org)
 - SfOS QML App dev
   - [Telegram](https://t.me/joinchat/Az9rWwlOc_JbRyYH7hxG7Q)
+- [SailfishOS Fan Club on Signal](https://signal.group/#CjQKIAq0Wqusuhku1jYnt0hnGrIMmEVEWyzGxpIotkJkbguREhBZ6qdYOtNwLhXJ-KPoPs1D)
+  - Note that _Signal will share your phone number_ with other group members.
 
 ### In German
 
