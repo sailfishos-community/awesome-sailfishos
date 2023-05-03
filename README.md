@@ -75,25 +75,27 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 * Sailfish OS Fan Club (group chat for all things related to Sailfish OS)
   * [Information and chat rules](https://telegra.ph/Sailfish-OS-Fan-Club-05-19)
   * [Telegram](https://t.me/+KeJKDDA60uU2M2Q0)
-  * [oftc.net IRC #sailfishos-fanclub](https://webchat.oftc.net/?channels=sailfishos-fanclub)
-  * [Matrix](https://matrix.to/#/#_oftc_#sailfishos-fanclub:matrix.org)
+  * [oftc.net IRC #sailfishos-fanclub bridge](https://webchat.oftc.net/?channels=sailfishos-fanclub)
+  * [Matrix bridge](https://matrix.to/#/#_oftc_#sailfishos-fanclub:matrix.org)
 * Sailfish OS News Channel 
   * [Telegram](https://t.me/sailfishosnews)
   * [Mastodon](https://mastodon.social/@sailfishosnews)
 * SailfishOS-Meeting (official regular meetings by Jolla)
   * [Meeting announcements and information](https://forum.sailfishos.org/tag/community-meeting)
   * [oftc.net IRC #sailfishos-meeting](https://webchat.oftc.net/?channels=#sailfishos-meeting)
-  * [Telegram (read-only)](https://t.me/joinchat/AAAAAFcbasJX67Fu-aGxxQ)
+  * [Matrix bridge](https://matrix.to/#/#_oftc_#sailfishos-meeting:matrix.org)
+  * [Telegram bridge (read-only)](https://t.me/joinchat/AAAAAFcbasJX67Fu-aGxxQ)
 * Sailfish OS on IRC (official channel by Jolla)
   * [oftc.net IRC #sailfishos](https://webchat.oftc.net/?channels=sailfishos)
+  * [Matrix bridge](https://matrix.to/#/#_oftc_#sailfishos:matrix.org)
 * Sailfish OS Porters (group chat about hardware adaptions)
-  * [Telegram](https://t.me/sailfishos_porters)
-  * [IRC](https://kiwiirc.com/client/irc.freenode.net:+6697/#sailfishos-porters)
-  * [Matrix](https://riot.im/app/#/room/#freenode_#sailfishos-porters:matrix.org)
+  * [oftc.net IRC #sailfishos-porters](https://webchat.oftc.net/?channels=#sailfishos-porters)
+  * [Matrix bridge](https://riot.im/app/#/room/#freenode_#sailfishos-porters:matrix.org)
+  * [Telegram bridge](https://t.me/sailfishos_porters)
 * NemoMobile (Nemo Mobile UX group chat)
   * [Telegram](https://t.me/NemoMobile)
-  * [IRC](https://kiwiirc.com/client/irc.freenode.net:+6697/#NemoMobile)
-  * [Matrix](https://riot.im/app/#/room/#freenode_#nemomobile:matrix.org)
+  * [IRC bridge](https://kiwiirc.com/client/irc.freenode.net:+6697/#NemoMobile)
+  * [Matrix bridge](https://riot.im/app/#/room/#freenode_#nemomobile:matrix.org)
 
 ### In German
 
@@ -110,7 +112,7 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 ### In Italian
 
 * [Jolla Community Italia](https://jollacommunity.it) - Website with Sailfish OS related news, guides, forum and other resources
-* [Jolla Community Italia channel](https://t.me/jollait) - Telegram channel with news from the Italian community (read-only)
+* [Jolla Community Italia Channel](https://t.me/jollait) - Telegram channel with news from the Italian community (read-only)
 * [Jolla Community Italia Club](https://t.me/jollaitclub) - Telegram group chat 
 
 ### In Turkish
@@ -122,7 +124,7 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 
 * SailfishOS Fan Club
   * [Jolla-Sailfish OS 中文交流群](https://t.me/jollacn) - Telegram group chat
-  * [IRC](https://kiwiirc.com/client/irc.freenode.net:+6697/#jolla-cn) - IRC-bridge to the Telegram group chat
+  * [IRC bridge](https://kiwiirc.com/client/irc.freenode.net:+6697/#jolla-cn) - IRC-bridge to the Telegram group chat
   * [旗鱼俱乐部](https://sailfishos.club) - Community forum
 
 ### In Russian
@@ -133,7 +135,7 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 
 * Sailfish OS Arabic Community
   * [Telegram](https://t.me/SFOS_AR)
-  * [Matrix](https://matrix.to/#/#SFOS_AR:matrix.org) 
+  * [Matrix bridge](https://matrix.to/#/#SFOS_AR:matrix.org) 
 
 ## Academic
 * [Asterism: Decentralized File Sharing Application for Mobile Devices](https://www.researchgate.net/publication/330758943_Asterism_Decentralized_File_Sharing_Application_for_Mobile_Devices)
