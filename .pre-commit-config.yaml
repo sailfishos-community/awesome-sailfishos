@@ -6,6 +6,19 @@ ci:
   autoupdate_schedule: quarterly
 
 repos:
+  # Official pre-commit hooks that everyone using it likely has
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.4.0
+    hooks:
+      - id: check-added-large-files
+      - id: check-case-conflict
+      - id: check-yaml
+      - id: end-of-file-fixer
+      - id: fix-byte-order-marker
+      - id: trailing-whitespace
+        # File types depending on trailing whitespace. Use identify-cli
+        exclude_types: [markdown]
+
   # Table of Contents updating
   - repo: https://github.com/thlorenz/doctoc
     rev: v2.2.0
