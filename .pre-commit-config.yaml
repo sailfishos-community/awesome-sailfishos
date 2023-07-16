@@ -1,12 +1,36 @@
-# https://pre-commit.com/
+# See https://pre-commit.com for more information
+# See https://pre-commit.ci for more information
+ci:
+  # We aren't so active to need weekly updates.
+  # https://github.com/pre-commit-ci/issues/issues/83
+  autoupdate_schedule: quarterly
+
 repos:
+  # Official pre-commit hooks that everyone using it likely has
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.4.0
+    hooks:
+      - id: check-added-large-files
+      - id: check-case-conflict
+      - id: check-yaml
+      - id: end-of-file-fixer
+      - id: fix-byte-order-marker
+      - id: trailing-whitespace
+        # File types depending on trailing whitespace. Use identify-cli
+        exclude_types: [markdown]
+
+  # Table of Contents updating
   - repo: https://github.com/thlorenz/doctoc
     rev: v2.2.0
     hooks:
       - id: doctoc
         args: [--update-only]
 
+  # Prettier markdown formatting
   - repo: https://github.com/pre-commit/mirrors-prettier
-    rev: "v3.0.0-alpha.9-for-vscode"
+    rev: "v3.0.0"
     hooks:
       - id: prettier
+        # In case of autoupdate offering unstable releases
+        #additional_dependencies:
+        #["prettier@3.0.0"]
