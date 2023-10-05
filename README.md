@@ -50,7 +50,7 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 
 ## Software Sources / App Stores
 * [OpenRepos](https://openrepos.net/) - Original community software website
-* [Storeman, an OpenRepos client app](https://github.com/storeman-developers/harbour-storeman) - Sailfish&nbsp;OS client app for OpenRepos
+* [Storeman, an OpenRepos client app](https://github.com/storeman-developers/harbour-storeman#readme) - Sailfish&nbsp;OS client app for OpenRepos
 * [SailfishOS:Chum community repository](https://github.com/sailfishos-chum/main#readme) - New community software repository
 * [SailfishOS:Chum GUI app](https://github.com/sailfishos-chum/sailfishos-chum-gui#sailfishoschum-gui-application) - Sailfish&nbsp;OS client app for the SailfishOS:Chum community repository 
 
