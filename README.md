@@ -14,7 +14,7 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 
 - [Sailfish OS](#sailfish-os)
 - [Jolla](#jolla)
-- [Application Sources / Stores](#application-sources--stores)
+- [Software Sources / App Stores](#software-sources--app-stores)
 - [Useful Communications Apps](#useful-communications-apps)
 - [Tips and Tricks](#tips-and-tricks)
 - [Instant Messaging, Social Media and other](#instant-messaging-social-media-and-other)
@@ -48,11 +48,11 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 * [Jolla on Facebook](http://www.facebook.com/jollaofficial) - official Facebook account
 * [Jolla on Twitter](http://twitter.com/jollahq) - official Twitter account
 
-## Application Sources / Stores
-* [Openrepos.net](https://openrepos.net/) - Unofficial app website maintained by the community
-* [Storeman app for Openrepos.net (Github)](https://github.com/storeman-developers/harbour-storeman) - Sailfish OS client for openrepos.net
-* [Sailfish OS Chum Community Repository (Github)](https://github.com/sailfishos-chum/main) - provides a collection of applications, tools and libraries
-* [Sailfish OS Chum GUI](https://chumrpm.netlify.app/) - Sailfish OS client for the chum community repository 
+## Software Sources / App Stores
+* [OpenRepos](https://openrepos.net/) - Original community software website
+* [Storeman, an OpenRepos client app](https://github.com/storeman-developers/harbour-storeman) - Sailfish&nbsp;OS client app for OpenRepos
+* [SailfishOS:Chum community repository](https://github.com/sailfishos-chum/main#readme) - New community software repository
+* [SailfishOS:Chum GUI app](https://github.com/sailfishos-chum/sailfishos-chum-gui#sailfishoschum-gui-application) - Sailfish&nbsp;OS client app for the SailfishOS:Chum community repository 
 
 ## Useful Communications Apps
 * [Communi](https://openrepos.net/content/thaodan/communi) - IRC client
