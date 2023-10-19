@@ -8,7 +8,7 @@ ci:
 repos:
   # Official pre-commit hooks that everyone using it likely has
   - repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v4.4.0
+    rev: v4.5.0
     hooks:
       - id: check-added-large-files
       - id: check-case-conflict
@@ -16,8 +16,7 @@ repos:
       - id: end-of-file-fixer
       - id: fix-byte-order-marker
       - id: trailing-whitespace
-        # File types depending on trailing whitespace. Use identify-cli
-        exclude_types: [markdown]
+        args: ["--markdown-linebreak-ext", "md,MD"]
 
   # Table of Contents updating
   - repo: https://github.com/thlorenz/doctoc
@@ -28,7 +27,7 @@ repos:
 
   # Prettier markdown formatting
   - repo: https://github.com/pre-commit/mirrors-prettier
-    rev: "v3.0.0"
+    rev: "v3.0.3"
     hooks:
       - id: prettier
         # In case of autoupdate offering unstable releases
