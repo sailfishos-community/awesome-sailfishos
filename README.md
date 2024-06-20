@@ -12,7 +12,7 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [Sailfish OS](#sailfish-os)
-- [Applications](#applications)
+- [App Stores](#app-stores)
 - [Deploy](#deploy)
 - [Tips and Tricks](#tips-and-tricks)
 - [Instant Messaging](#instant-messaging)
@@ -45,14 +45,13 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 - [SailfishOS Ports List](https://wiki.merproject.org/wiki/Adaptations/libhybris) -
   List of unofficial SailfishOS ports
 
-## Applications
+## App Stores
 
+In addition to the Jolla Store shipping with SailfishOS, community app stores are also available:
+
+- [Chum](https://github.com/sailfishos-chum/main) & [Chum GUI](https://github.com/sailfishos-chum/sailfishos-chum-gui) - A community repository and native client with reproducible builds.
 - [Storeman](https://github.com/mentaljam/harbour-storeman) - Unofficial native
   OpenRepos.net client for Sailfish OS
-- [Working Hours Tracker](https://wht.olpe.fi/) - Easy to use and simple
-  Working Hours Tracker for SailfishOS
-- [Chum](https://github.com/sailfishos-chum/main) & [Chum GUI](https://github.com/sailfishos-chum/sailfishos-chum-gui) - A community repository and native client with reproducible builds.
-- [Whisperfish](https://gitlab.com/whisperfish/whisperfish) - A native Signal client for SailfishOS.
 
 ## Deploy
 
