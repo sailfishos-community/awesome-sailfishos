@@ -95,7 +95,9 @@ the Finnish mobile company Jolla Ltd. and the Sailfish OS community.
 - SfOS QML App dev
   - [Telegram](https://t.me/joinchat/Az9rWwlOc_JbRyYH7hxG7Q)
 - [SailfishOS Fan Club on Signal](https://signal.group/#CjQKIAq0Wqusuhku1jYnt0hnGrIMmEVEWyzGxpIotkJkbguREhBZ6qdYOtNwLhXJ-KPoPs1D)
-  - Note that _Signal will share your phone number_ with other group members if [phone number privacy](https://support.signal.org/hc/en-us/articles/6712070553754-Phone-Number-Privacy-and-Usernames) is turned off.
+  - Note that _Signal will share your phone number_ with other group members if
+    [phone number privacy](https://support.signal.org/hc/en-us/articles/6712070553754-Phone-Number-Privacy-and-Usernames)
+    is turned off.
 
 ### In German
 
